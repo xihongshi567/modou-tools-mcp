@@ -31,8 +31,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/he-xihongshi/modou-tools-mcp"
-Repository = "https://github.com/he-xihongshi/modou-tools-mcp"
+Homepage = "https://github.com/xihongshi567/modou-tools-mcp"
+Repository = "https://github.com/xihongshi567/modou-tools-mcp"
 
 [project.scripts]
 modou-tools-mcp = "modou_tools_mcp.server:main"

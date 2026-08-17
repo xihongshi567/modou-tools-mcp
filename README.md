@@ -42,7 +42,7 @@ pip install modou-tools-mcp
 或使用仓库源码直接运行（开发模式）：
 
 ```bash
-git clone https://github.com/he-xihongshi/modou-tools-mcp
+git clone https://github.com/xihongshi567/modou-tools-mcp
 cd modou-tools-mcp
 pip install -e .
 claude mcp add modou-tools -- python "D:/okok/modou-tools-mcp/src/modou_tools_mcp/server.py"
